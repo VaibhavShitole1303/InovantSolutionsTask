@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InovantSolutionsTask</string>
+    <string name="dome_text">DomeText</string>
+    <string name="color">Color :</string>
+    <string name="or_4_interest_free_payment">or 4 interest-free payment</string>
+    <string name="_0_00">0.88</string>
+    <string name="lear_more">Lear More</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="product_information">PRODUCT INFORMATION</string>
+    <string name="add_to_bag">Add to bag</string>
+    <string name="share">share</string>
+    <string name="kwd">KWD</string>
+    <string name="sku">SKU%1$s</string>
+    <string name="please_wait">Please wait</string>
+</resources>
